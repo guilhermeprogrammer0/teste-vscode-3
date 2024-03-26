@@ -3,4 +3,4 @@ function mostrar(){
 }
 
 
-setTimeout('mostrar()',3000);
+setInterval('mostrar()',3000);
